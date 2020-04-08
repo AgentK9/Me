@@ -11,3 +11,7 @@ Projects that I have created and/or used, with a little blurb on what my thought
 
 # [Positions](./Positions.md)
 Jobs/Positions I have held
+
+# [Education](./Education.md)
+
+Classes that I have taken, including grades and current GPA
