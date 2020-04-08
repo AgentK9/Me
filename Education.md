@@ -32,7 +32,7 @@ PE154 - Fitness Center - A
 
 ### Fall 2018
 
-CH111 - Intro to Chemistry 1
+CH111 - Intro to Chemistry 1 - A
 
 
 
