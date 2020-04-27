@@ -1,14 +1,14 @@
 # Activities
 
-In progress.... Please excuse the mess/placeholders!
-
 ## 2020
 
 ### April
 
 #### [CNYHackathon, April 17-18, 2020](https://www.cnyhackathon.org)
 
-This hackathon will be interesting, as it will be the first fully online one that I have participated in. We'll see how it goes!
+![Spring 2020 CNYHackathon Scores](./Images/cnyHackathonScoreSP20.jpg)
+
+This hackathon, I was on team 3, generally leading CTF. I was especially effective on the reversing challenges (python, assembly, and Ook), but I helped with a bunch of the other ones as well. It was a really great hackathon, and, while the face-to-face interaction was definitely missed, it progressed pretty smoothly. At the end, I was voted the most valuable team member by my team! I can't wait for next semester!
 
 ## 2019
 
