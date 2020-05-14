@@ -2,17 +2,26 @@
 
 ***Current GPA: 4.0***
 
-## Mohawk Valley Community College
+## [Mohawk Valley Community College](https://mvcc.edu)
+### Fall 2020
+
+FL111 - Elementary Chinese - Coming Soon
+
+MA110 - Elementary Statistics - Coming Soon
+
+MA152 - Calculus 2 - Coming Soon
+
+MA275 - Differential Equations - Coming Soon
 
 ### Spring 2020
 
-EN102 - Ideas and Values in Literature - IN PROGRESS
+EN102 - Ideas and Values in Literature - A
 
-MA151 - Calculus 1 - IN PROGRESS
+MA151 - Calculus 1 - A
 
-PH151 - General Physics 1 - IN PROGRESS
+PH151 - General Physics 1 - A
 
-PH115 - Science of Multimedia - IN PROGRESS
+PH115 - Science of Multimedia - A
 
 ### Fall 2019
 
